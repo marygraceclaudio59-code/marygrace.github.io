@@ -28,21 +28,6 @@ The following are technologies and tools I am learning and practicing:
 
 I'm continuing to strengthen my fundamentals and gain practical experience through hands-on learning.
 
-## 🚀 Featured Project
-
-### Project Nexus
-
-**Project Nexus** is a collaborative project that provides an opportunity to apply technical knowledge, practice project organization, and use GitHub for version control and teamwork.
-
-Through this project, I aim to develop my skills in:
-
-* Repository management and version control
-* Organizing project files and documentation
-* Tracking changes and maintaining project history
-* Collaborating with team members
-* Applying programming knowledge to practical tasks
-
-*More details, documentation, and project updates will be added as development progresses.*
 
 ## 📚 What I'm Learning
 
